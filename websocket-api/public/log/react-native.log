@@ -1,0 +1,406 @@
+[Sun Jul 21 2024 | 8:50:10 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 8:50:11 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:50:33 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 8:50:33 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 8:50:35 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:50:56 AM]:	["\n\nTable Created/Checked SuccessFully!"]
+[Sun Jul 21 2024 | 8:51:04 AM]:	["\nTasks Table Initiated!\n"]
+[Sun Jul 21 2024 | 8:57:45 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 8:57:45 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 8:57:46 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:01:57 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:01:57 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:01:58 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:03:04 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:03:05 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:03:46 AM]:	["\nProjects Table Already Exists!\n"]
+[Sun Jul 21 2024 | 9:20:00 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:20:01 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:39:40 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:39:40 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:39:41 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:42:53 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:42:53 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:42:54 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:42:58 AM]:	[360]
+[Sun Jul 21 2024 | 9:44:37 AM]:	[1,825,360,2]
+[Sun Jul 21 2024 | 9:45:56 AM]:	[{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}]
+[Sun Jul 21 2024 | 9:47:20 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:47:20 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:47:21 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:48:34 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:48:34 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:48:35 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:49:44 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:49:44 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:49:45 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:49:57 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:49:57 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 9:49:58 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:54:26 AM]:	[{}]
+[Sun Jul 21 2024 | 9:54:49 AM]:	[{"Nearest Prayer:":{"id":2,"key":"zuhar","name":"Zuhar","weeks":[{"id":1,"name":"Sunday","shortName":"Sun","status":true},{"id":2,"name":"Monday","shortName":"Mon","status":true},{"id":3,"name":"Tuesday","shortName":"Tue","status":true},{"id":4,"name":"Wednesday","shortName":"Wed","status":true},{"id":5,"name":"Thursday","shortName":"Thu","status":true},{"id":6,"name":"Friday","shortName":"Fri","status":true},{"id":7,"name":"Saturday","shortName":"Sat","status":true}],"start":1712560505769,"end":1712562305769}}]
+[Sun Jul 21 2024 | 9:54:49 AM]:	[{}]
+[Sun Jul 21 2024 | 9:54:49 AM]:	["Entering second condition"]
+[Sun Jul 21 2024 | 9:55:03 AM]:	[{}]
+[Sun Jul 21 2024 | 9:55:53 AM]:	[{"Nearest Prayer:":{"id":2,"key":"zuhar","name":"Zuhar","weeks":[{"id":1,"name":"Sunday","shortName":"Sun","status":true},{"id":2,"name":"Monday","shortName":"Mon","status":true},{"id":3,"name":"Tuesday","shortName":"Tue","status":true},{"id":4,"name":"Wednesday","shortName":"Wed","status":true},{"id":5,"name":"Thursday","shortName":"Thu","status":true},{"id":6,"name":"Friday","shortName":"Fri","status":true},{"id":7,"name":"Saturday","shortName":"Sat","status":true}],"start":1712560505769,"end":1712562305769}}]
+[Sun Jul 21 2024 | 9:55:54 AM]:	["Entering second condition"]
+[Sun Jul 21 2024 | 9:55:55 AM]:	[{"Nearest Prayer:":{"id":2,"key":"zuhar","name":"Zuhar","weeks":[{"id":1,"name":"Sunday","shortName":"Sun","status":true},{"id":2,"name":"Monday","shortName":"Mon","status":true},{"id":3,"name":"Tuesday","shortName":"Tue","status":true},{"id":4,"name":"Wednesday","shortName":"Wed","status":true},{"id":5,"name":"Thursday","shortName":"Thu","status":true},{"id":6,"name":"Friday","shortName":"Fri","status":true},{"id":7,"name":"Saturday","shortName":"Sat","status":true}],"start":1712560505769,"end":1712562305769}}]
+[Sun Jul 21 2024 | 9:55:55 AM]:	[{}]
+[Sun Jul 21 2024 | 9:55:55 AM]:	["Entering second condition"]
+[Sun Jul 21 2024 | 9:55:56 AM]:	["Entering second condition"]
+[Sun Jul 21 2024 | 9:59:14 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 9:59:15 AM]:	[{"Nearest Prayer:":null}]
+[Sun Jul 21 2024 | 9:59:15 AM]:	["Entering else condition"]
+[Sun Jul 21 2024 | 9:59:15 AM]:	{"message":"Background Task Duration Updated Successfully! "}
+[Sun Jul 21 2024 | 10:01:58 AM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:01:59 AM]:	{"Nearest Prayer:":null}
+[Sun Jul 21 2024 | 10:01:59 AM]:	{"message":"Entering else condition"}
+[Sun Jul 21 2024 | 10:01:59 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:02:28 AM]:	["Database Opened Successfully!"]
+[Sun Jul 21 2024 | 10:02:28 AM]:	["Prayer Reminder Data are available on Local Storage!"]
+[Sun Jul 21 2024 | 10:02:28 AM]:	[{}]
+[Sun Jul 21 2024 | 10:02:28 AM]:	["Entering else condition"]
+[Sun Jul 21 2024 | 10:02:29 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:02:37 AM]:	[{"Nearest Prayer:":{"id":2,"key":"zuhar","name":"Zuhar","weeks":[{"id":1,"name":"Sunday","shortName":"Sun","status":true},{"id":2,"name":"Monday","shortName":"Mon","status":true},{"id":3,"name":"Tuesday","shortName":"Tue","status":true},{"id":4,"name":"Wednesday","shortName":"Wed","status":true},{"id":5,"name":"Thursday","shortName":"Thu","status":true},{"id":6,"name":"Friday","shortName":"Fri","status":true},{"id":7,"name":"Saturday","shortName":"Sat","status":true}],"start":1712560505769,"end":1712562305769}}]
+[Sun Jul 21 2024 | 10:03:22 AM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 10:03:22 AM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:03:23 AM]:	{"Nearest Prayer:":null}
+[Sun Jul 21 2024 | 10:03:23 AM]:	{"message":"Entering else condition"}
+[Sun Jul 21 2024 | 10:03:23 AM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:03:31 AM]:	{"message":"Entering second condition"}
+[Sun Jul 21 2024 | 10:03:39 AM]:	{"Nearest Prayer:":{"id":2,"key":"zuhar","name":"Zuhar","weeks":[{"id":1,"name":"Sunday","shortName":"Sun","status":true},{"id":2,"name":"Monday","shortName":"Mon","status":true},{"id":3,"name":"Tuesday","shortName":"Tue","status":true},{"id":4,"name":"Wednesday","shortName":"Wed","status":true},{"id":5,"name":"Thursday","shortName":"Thu","status":true},{"id":6,"name":"Friday","shortName":"Fri","status":true},{"id":7,"name":"Saturday","shortName":"Sat","status":true}],"start":1712560505769,"end":1712562305769}}
+[Sun Jul 21 2024 | 10:05:10 AM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 2:23:43 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:23:43 PM]:	{}
+[Sun Jul 21 2024 | 2:23:43 PM]:	{"message":"Entering else condition"}
+[Sun Jul 21 2024 | 2:23:44 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:26:06 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:26:06 PM]:	{}
+[Sun Jul 21 2024 | 2:26:06 PM]:	{"message":"Entering else condition"}
+[Sun Jul 21 2024 | 2:26:07 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:26:23 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:26:23 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:26:23 PM]:	{}
+[Sun Jul 21 2024 | 2:26:23 PM]:	{"message":"Entering else condition"}
+[Sun Jul 21 2024 | 2:26:24 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:26:54 PM]:	{"message":"Entering second condition"}
+[Sun Jul 21 2024 | 2:29:56 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:31:23 PM]:	{"message":"Entering else condition"}
+[Sun Jul 21 2024 | 2:31:54 PM]:	{"message":"Entering second condition"}
+[Sun Jul 21 2024 | 2:34:17 PM]:	{"_h":0,"_i":3,"_j":{"_h":0,"_i":0,"_j":null,"_k":null},"_k":null}
+[Sun Jul 21 2024 | 2:34:43 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:34:43 PM]:	{"message":"granted"}
+[Sun Jul 21 2024 | 2:35:22 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:35:22 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:35:22 PM]:	{"Nearest Prayer:":null}
+[Sun Jul 21 2024 | 2:35:22 PM]:	{}
+[Sun Jul 21 2024 | 2:35:23 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:35:44 PM]:	{"message":"Entering second condition"}
+[Sun Jul 21 2024 | 2:35:52 PM]:	{"message":"Entering second condition"}
+[Sun Jul 21 2024 | 2:36:00 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:36:05 PM]:	{"message":"never_ask_again"}
+[Sun Jul 21 2024 | 2:36:09 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:36:10 PM]:	{"message":"never_ask_again"}
+[Sun Jul 21 2024 | 2:36:11 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:36:11 PM]:	{"message":"never_ask_again"}
+[Sun Jul 21 2024 | 2:36:12 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:36:12 PM]:	{"message":"never_ask_again"}
+[Sun Jul 21 2024 | 2:36:13 PM]:	{"screen":{"width":360,"height":825,"scale":2,"fontScale":1},"window":{"width":360,"height":800.5,"scale":2,"fontScale":1}}
+[Sun Jul 21 2024 | 2:36:13 PM]:	{"message":"never_ask_again"}
+[Sun Jul 21 2024 | 2:37:38 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:37:38 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:37:39 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:39:19 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:39:19 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:39:20 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:40:23 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:40:23 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:40:24 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:44:05 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:44:06 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:45:29 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:45:29 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:45:30 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:45:38 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:45:38 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:45:39 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:45:49 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 2:45:49 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:45:50 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:46:13 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:46:14 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 2:58:29 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 2:58:30 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:09:34 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:09:34 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:09:35 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:10:19 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:10:19 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:10:20 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:10:48 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 3:12:09 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 3:14:11 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:14:13 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:21:34 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:21:34 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:21:34 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:22:34 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 3:24:35 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:24:35 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:24:35 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:26:44 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 3:27:16 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:27:16 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:27:16 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:43:39 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:43:39 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:43:39 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:44:31 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:44:31 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:44:31 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:45:26 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:45:26 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:46:05 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 3:46:05 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:46:05 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 3:53:44 PM]:	{"message":"dark"}
+[Sun Jul 21 2024 | 3:53:54 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:16 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:18 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:19 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:19 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:19 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:19 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:20 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:20 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:20 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:21 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:21 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:21 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:21 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:22 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:23 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:23 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:24 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:54:25 PM]:	{"theme":"dark"}
+[Sun Jul 21 2024 | 3:54:25 PM]:	{"theme":"light"}
+[Sun Jul 21 2024 | 3:56:24 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 3:56:24 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:00:04 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 4:00:04 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:01:18 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 4:01:19 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:01:30 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 4:01:30 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:01:31 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:03:48 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:03:49 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:04:33 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 4:04:33 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:04:33 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:05:06 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 4:05:06 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:05:06 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:08:31 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:08:31 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:08:51 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:08:51 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 4:09:25 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 4:09:25 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 4:09:25 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:01:10 PM]:	{"message":"Database Opened Successfully!"}
+[Sun Jul 21 2024 | 8:01:10 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 8:01:11 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:03:01 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 8:03:01 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:05:20 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 8:05:20 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:14:46 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 8:14:46 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:17:14 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:21:08 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:21:11 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:24:07 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:24:10 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:27:22 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 8:27:22 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 8:29:30 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:30:56 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:30:59 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:31:03 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:32:22 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:36:35 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 8:37:20 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:30:27 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 9:30:27 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:31:34 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:33:56 PM]:	{"message":500}
+[Sun Jul 21 2024 | 9:35:03 PM]:	{"message":500}
+[Sun Jul 21 2024 | 9:35:17 PM]:	{"message":500}
+[Sun Jul 21 2024 | 9:36:13 PM]:	{"message":500}
+[Sun Jul 21 2024 | 9:38:35 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 9:38:35 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 9:38:42 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:54:54 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:58:14 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:59:24 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:59:31 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 9:59:53 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:01:09 PM]:	{"message":500}
+[Sun Jul 21 2024 | 10:13:42 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:15:38 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:15:38 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:18:24 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:18:25 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:18:46 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:19:04 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:25:18 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:26:01 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:26:04 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:27:43 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:27:43 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:27:43 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:28:28 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:29:24 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:29:24 PM]:	{"error":{"message":"no such table: project_tasks (code 1 SQLITE_ERROR): , while compiling: SELECT \n                        projects.*, \n                        SUM(CASE WHEN project_tasks.type = 'income' THEN project_tasks.amount ELSE 0 END) AS totalIncome, \n                        SUM(CASE WHEN project_tasks.type = 'expense' THEN project_tasks.amount ELSE 0 END) AS totalExpense \n                    FROM \n                        projects \n                    LEFT JOIN \n                        project_tasks ON projects.id = project_tasks.project_id \n                    GROUP BY \n                        projects.id \n                    ORDER BY \n                        projects.updated_at DESC;  -- Replace with the desired column for sorting","code":0},"query":"SELECT \n                        projects.*, \n                        SUM(CASE WHEN project_tasks.type = 'income' THEN project_tasks.amount ELSE 0 END) AS totalIncome, \n                        SUM(CASE WHEN project_tasks.type = 'expense' THEN project_tasks.amount ELSE 0 END) AS totalExpense \n                    FROM \n                        projects \n                    LEFT JOIN \n                        project_tasks ON projects.id = project_tasks.project_id \n                    GROUP BY \n                        projects.id \n                    ORDER BY \n                        projects.updated_at DESC;  -- Replace with the desired column for sorting\n                ","values":[],"data":[],"status":"error","message":"Failed to get data from database!"}
+[Sun Jul 21 2024 | 10:30:30 PM]:	{"message":"\nProject Members Table Initiated!\n"}
+[Sun Jul 21 2024 | 10:30:43 PM]:	["res",{"data":{"created_at":"2024-07-21T16:30:49.001Z","member_id":null,"type":"income","amount":466,"title":"দজদজ","updated_at":"2024-07-21T16:30:49.001Z","status":1,"project_id":3,"id":1},"status":"success","message":"Data inserted successfully!"}]
+[Sun Jul 21 2024 | 10:31:11 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:31:11 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:31:11 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 10:31:11 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:31:26 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:31:26 PM]:	{"projectTaskFormsStatus":true}
+[Sun Jul 21 2024 | 10:31:26 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 10:32:47 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:32:47 PM]:	{"message":"\nProject Tasks Table Initiated!\n"}
+[Sun Jul 21 2024 | 10:32:47 PM]:	{"projectTaskFormsStatus":true}
+[Sun Jul 21 2024 | 10:32:47 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 10:37:59 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:39:34 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:40:00 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:40:01 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 10:40:09 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:40:09 PM]:	{"message":"\nProject Tasks Table Initiated!\n"}
+[Sun Jul 21 2024 | 10:40:09 PM]:	{"projectTaskFormsStatus":true}
+[Sun Jul 21 2024 | 10:40:09 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 10:43:53 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:43:53 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 10:44:00 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:44:00 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 10:44:04 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:44:04 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 10:44:09 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:44:10 PM]:	{"message":"\nProject Tasks Table Initiated!\n"}
+[Sun Jul 21 2024 | 10:44:10 PM]:	{"projectTaskFormsStatus":true}
+[Sun Jul 21 2024 | 10:44:10 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 10:45:55 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 10:45:56 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:45:56 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 10:45:56 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 10:46:01 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 10:46:02 PM]:	{"message":"\nProject Tasks Table Initiated!\n"}
+[Sun Jul 21 2024 | 10:46:02 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 11:01:30 PM]:	["\n\n Update Result => ",{"data":{"updated_at":"2024-07-21T17:01:35.131Z","status":1,"id":1,"project_id":3,"phone":"01817807594","created_at":"2024-07-21T16:53:49.276Z","name":"আমির","title":"যোদ্ধা"},"status":"success","message":"Data Updated successfully!"}]
+[Sun Jul 21 2024 | 11:01:41 PM]:	["\n\n Update Result => ",{"data":{"updated_at":"2024-07-21T17:01:44.738Z","status":1,"id":1,"project_id":3,"phone":"01817807594","created_at":"2024-07-21T16:53:49.276Z","name":"আমির","title":"যোদ্ধা"},"status":"success","message":"Data Updated successfully!"}]
+[Sun Jul 21 2024 | 11:05:42 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 11:05:42 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:05:42 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:05:42 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 11:05:52 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:05:52 PM]:	{"message":"\nProject Tasks Table Initiated!\n"}
+[Sun Jul 21 2024 | 11:05:52 PM]:	{"projectTaskFormsStatus":true}
+[Sun Jul 21 2024 | 11:05:53 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 11:15:07 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 11:15:07 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:15:07 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:15:07 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 11:16:14 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 11:16:15 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:16:15 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:16:15 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 11:16:19 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:16:19 PM]:	{"message":"\nProject Tasks Table Initiated!\n"}
+[Sun Jul 21 2024 | 11:16:19 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 11:24:05 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:24:05 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:25:09 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:25:09 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:30:28 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:30:28 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:30:38 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:30:38 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:31:51 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:31:51 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:32:51 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:32:51 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:33:19 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:33:19 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:33:28 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:33:28 PM]:	{"status":false,"name":"Select One"}
+[Sun Jul 21 2024 | 11:37:26 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 11:37:27 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:37:27 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:37:27 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 11:45:44 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 11:45:44 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:45:44 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:45:44 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 11:52:06 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Sun Jul 21 2024 | 11:52:06 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:52:07 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:52:07 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Sun Jul 21 2024 | 11:52:58 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:53:29 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:53:29 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:54:22 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:55:26 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:55:26 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Sun Jul 21 2024 | 11:55:28 PM]:	{"message":"\nProject Members Table Already Exists!\n"}
+[Sun Jul 21 2024 | 11:55:29 PM]:	{"projectTaskFormsStatus":true}
+[Sun Jul 21 2024 | 11:55:29 PM]:	{"message":"\n\nTable Created/Checked SuccessFully!"}
+[Sun Jul 21 2024 | 11:55:49 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Mon Jul 22 2024 | 12:33:56 PM]:	{"message":"Database Opened Successfully!"}
+[Mon Jul 22 2024 | 12:33:56 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 12:33:57 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Mon Jul 22 2024 | 12:33:57 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Mon Jul 22 2024 | 12:33:57 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 12:46:30 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 12:46:30 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Mon Jul 22 2024 | 12:46:30 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Mon Jul 22 2024 | 12:46:30 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 12:55:26 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Mon Jul 22 2024 | 12:55:26 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Mon Jul 22 2024 | 12:55:30 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Mon Jul 22 2024 | 12:58:38 PM]:	{"message":"Database Opened Successfully!"}
+[Mon Jul 22 2024 | 12:58:38 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 12:58:38 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 12:59:41 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 12:59:41 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 1:01:12 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Mon Jul 22 2024 | 1:01:16 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Mon Jul 22 2024 | 1:01:16 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Mon Jul 22 2024 | 1:02:01 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 1:02:01 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 1:02:46 PM]:	{"message":"\nProjects Table Already Exists!\n"}
+[Mon Jul 22 2024 | 1:02:46 PM]:	{"data":[{"totalExpense":0,"totalIncome":466,"created_at":"2024-07-21T16:30:29.953Z","updated_at":"2024-07-21T16:30:29.953Z","id":3,"status":1,"title":"হদজ্জদ","isPinned":null,"description":"ন্দন্দ"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:26:27.083Z","updated_at":"2024-07-21T16:26:27.083Z","id":2,"status":1,"title":"ওহহ","isPinned":null,"description":"ওহ হো"},{"totalExpense":0,"totalIncome":0,"created_at":"2024-07-21T16:24:45.628Z","updated_at":"2024-07-21T16:24:45.628Z","id":1,"status":1,"title":"অসাধারণ দৃশ্য ","isPinned":null,"description":"বাহ, কি অসাধারণ দৃশ্য আমার  দেশের!"}],"status":"success","message":"Data Get Successfully!"}
+[Mon Jul 22 2024 | 1:12:34 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 1:12:34 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 1:22:02 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 1:22:02 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 1:27:22 PM]:	{"message":"Prayer Reminder Data are available on Local Storage!"}
+[Mon Jul 22 2024 | 1:27:22 PM]:	["Background Task Duration Updated Successfully! ","300000"]
+[Mon Jul 22 2024 | 1:43:05 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Mon Jul 22 2024 | 1:44:25 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Mon Jul 22 2024 | 2:24:43 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Mon Jul 22 2024 | 2:44:47 PM]:	{"message":"\nTasks Table Already Exists!\n"}
+[Fri Jul 26 2024 | 10:52:38 AM]:	{"message":"hello"}
+[Fri Jul 26 2024 | 10:54:49 AM]:	{"message":"hello"}
+[Fri Jul 26 2024 | 10:54:54 AM]:	{"message":"hello"}
+[Fri Jul 26 2024 | 10:55:00 AM]:	{"message":"hello"}
+[Fri Jul 26 2024 | 10:56:49 AM]:	{"message":"hello"}
+[Fri Jul 26 2024 | 11:03:45 AM]:	{"name":"https://dribbble.com/shots/22245473-Finance-Fin-tech-service-Web-Design"}
+[Fri Jul 26 2024 | 11:03:56 AM]:	{"name":"https://dribbble.com/shots/22245473-Finance-Fin-tech-service-Web-Design"}
+[Fri Jul 26 2024 | 11:04:22 AM]:	{"name":"https://dribbble.com/shots/22245473-Finance-Fin-tech-service-Web-Design"}
+[Fri Jul 26 2024 | 11:04:38 AM]:	{"message":"https://dribbble.com/shots/22245473-Finance-Fin-tech-service-Web-Design"}
+[Fri Jul 26 2024 | 11:05:11 AM]:	{"message":"https://dribbble.com/shots/22245473-Finance-Fin-tech-service-Web-Design"}

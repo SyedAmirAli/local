@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>WebSocket API Test</title>
+    </head>
+    <body>
+        <h1>WebSocket Data Logger</h1>
+        <div id="log"></div>
+
+        <script>
+            const logDiv = document.getElementById('log');
+            const socket = new WebSocket('ws://192.168.241.6:3571');
+
+            socket.onopen = () => {
+                console.log('WebSocket connection established');
+            };
+
+            function isObject(variable) {
+                return variable !== null && typeof variable === 'object';
+            }
+
+            function isExecutableObject(str) {
+                try {
+                    const parsed = JSON.parse(str);
+                    return typeof parsed === 'object' && parsed !== null;
+                } catch (e) {
+                    return false;
+                }
+            }
+
+            socket.onmessage = ({ data }) => {
+                const logEntry = document.createElement('div');
+
+                if (isExecutableObject(data)) {
+                    data = JSON.parse(data);
+                    console.log(data);
+                    logEntry.textContent = 'Received: ' + JSON.stringify(data);
+                } else {
+                    logEntry.textContent = 'Received: ' + data;
+                    console.log(data);
+                }
+
+                logDiv.appendChild(logEntry);
+            };
+
+            socket.onerror = (error) => {
+                console.error('WebSocket error:', error);
+            };
+
+            socket.onclose = () => {
+                console.log('WebSocket connection closed');
+            };
+        </script>
+    </body>
+</html>

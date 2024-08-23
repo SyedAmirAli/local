@@ -1,0 +1,188 @@
+
+class QueryBuilder extends Query implements QueryBuilderType {
+    public function where(string $column, string|null $operator = null, string|null $value = null){
+        return $this;
+    }
+
+    public function executeQuery(){
+        echo $this->query;
+        return $this->query;
+    }
+
+    public function latest(string $column = 'id'){
+        $this->orderBy = $column;
+        $this->orderBy = 'DESC';
+        return $this;
+    }
+
+    public function oldest(string $column = 'id'){
+        $this->orderBy = $column;
+        $this->orderBy = 'ASC';
+        return $this;
+    }
+
+    public function get(bool $encoded = false, bool $encodedPrettyPrint = false){
+        $this->query = "SELECT * FROM {$this->tableName}";
+
+        if($this->orderBy){
+            $this->query = " ORDER BY {$this->orderBy} {$this->orderByType}";
+        } 
+
+        if($this->limitation){
+            $this->query = " LIMIT {$this->limitation}";
+        }
+
+        $result = mysqli_query($this->connection, $this->query);
+        $rows = mysqli_fetch_all($result);
+
+        $getRows = $rows;
+        if($encoded){
+            $getRows = json_encode($rows);
+        }
+        if($encodedPrettyPrint){
+            $getRows = json_encode($rows, JSON_PRETTY_PRINT);
+        }
+
+        return $getRows;
+    }
+}
+
+class QueryBuilder extends Query implements QueryBuilderType {
+    public static function where(string $column, string|null $operator = null, string|null $value = null){
+        return self::class;
+    }
+
+    public function executeQuery(){
+        echo $this->query;
+        return $this->query;
+    }
+
+    public static function latest(string $column = 'id'){
+        self::$orderBy = $column;
+        self::$orderBy = 'DESC';
+        return self::class;
+    }
+
+    public static function oldest(string $column = 'id'){
+        self::$orderBy = $column;
+        self::$orderBy = 'ASC';
+        return self::class;
+    }
+
+    public static function get(bool $encoded = false, bool $encodedPrettyPrint = false){
+        self::$query = "SELECT * FROM " . self::$tableName;
+
+        if(self::$orderBy){
+            self::$query = " ORDER BY " . self::$orderBy .' '. self::$orderByType;
+        } 
+
+        if(self::$limitation){
+            self::$query = " LIMIT " . self::$limitation;
+        }
+
+        $result = mysqli_query(self::$connection, self::$query);
+        $rows = mysqli_fetch_all($result);
+
+        $getRows = $rows;
+        if($encoded){
+            $getRows = json_encode($rows);
+        }
+        if($encodedPrettyPrint){
+            $getRows = json_encode($rows, JSON_PRETTY_PRINT);
+        }
+
+        return $getRows;
+    }
+
+    public static function test(){
+        // self::$query = 'NO QUERY';
+        echo self::$tableName;
+    }
+}
+
+
+
+        
+        // return is_numeric($value) ? $value : "'{$value}'";
+        // $valueRows = array_values($row);
+        // array_push($rowValues, "?", "?");
+        
+        // mysqli_pr
+        // $query = $this->query;
+        // $prepareQuery = mysqli_prepare($this->connection, $this->query);
+        // $prepareQuery = mysqli_stmt_prepare($prepareQuery, $this->query);
+        // $statement = new mysqli_stmt($this->connection, $prepareQuery);
+        // return compact('prepareQuery', 'rowValues', 'valueRows', 'keys', 'values', 'query');
+        // $stmtQuery = mysqli_stmt_bind_param($prepareQuery, '', $valueRows);
+        // mysqli_stmt_execute($prepareQuery);
+        // mysqli_stmt_close($prepareQuery);
+
+        // return compact('rowKeys', 'rowValues', 'valueRows', 'keys', 'values', 'prepareQuery', 'stmtQuery', 'query');
+        // mysqli_stmt_init($this->connection);
+        // $result = mysqli_result($stmtQuery);
+
+        // $result = mysqli_query($this->connection, $this->query);
+        // return $result;
+        // $id = mysqli_stmt();
+        // $id = mysqli_stmt_bind_param();
+        // $id = mysqli_insert_id();
+        // return $id . "\n"; 
+        
+        // $filterId = is_numeric($id) ? $id : "'{$id}'";
+
+        
+        // $where = implode(" AND ", $this->whereQueryArray);
+        // $where = $this->getWhereQueryString();
+        // $orWhere = implode(" AND ", $this->orWhereQueryArray);
+        // $orWhere = $this->getOrWhereQueryString();
+        // $notWhere = implode(" AND ", $this->notWhereQueryArray);
+        // $notWhere = $this->getNotWhereQueryString();
+        // $orNotWhere = implode(" AND ", $this->orNotWhereQueryArray);
+        // $orNotWhere = $this->getOrNotWhereQueryString();
+
+        // $query = $this->query = "SELECT * FROM {$this->tableName} {$where} {$orWhere} {$notWhere} {$orNotWhere}";
+        // echo json_encode(compact('query', 'where', 'orWhere', 'notWhere', 'orNotWhere'), JSON_PRETTY_PRINT);
+        // SELECT * FROM tasks WHERE id=1 AND type='income' OR id=2 AND NOT id=3 OR NOT id=4
+        // echo $query;
+        // return $query;
+        
+        // echo "SELECT * FROM {$this->tableName} {$whereQuery}";
+        // $whereQuery = empty($notAndOrNot) ? $wAndOr : ' AND ' . $notAndOrNot;
+        /* $qu = "SELECT * FROM {$this->tableName} ";
+        if(!empty($w) && !empty($or) && !empty($not) && !empty($orNot)){
+            $q = $w . $or . ' AND ' . $not . $orNot;
+            echo $qu.$q;
+            // return $qu.$q;
+        }
+
+        if(!empty($w) && !empty($or) && !empty($not) && empty($orNot)){
+            $q = $w . $or . ' AND ' . $not;
+            echo $qu.$q;
+            // return $qu.$q;
+        }
+
+        if(!empty($w) && !empty($or) && empty($not) && empty($orNot)){
+            $q = $w . $or;
+            echo $qu.$q;
+            // return $qu.$q;
+        }
+
+        if(!empty($w) && empty($or) && empty($not) && empty($orNot)){
+            $q = $w;
+            echo $qu.$q;
+            // return $qu.$q;
+        }
+
+        return $qu; */
+
+        // if(empty($this->whereQueryArray)){
+        //     return "OR WHERE" . implode(" AND ", $this->orWhereQueryArray);
+        // }
+
+        // if(empty($this->whereQueryArray)){
+        //     return " WHERE NOT " . implode(" AND ", $this->notWhereQueryArray);
+
+        // if(empty($this->whereQueryArray)){
+        //     return " WHERE OR NOT " . implode(" AND ", $this->orNotWhereQueryArray);
+        // }
+        // }

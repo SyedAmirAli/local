@@ -1,0 +1,4 @@
+/PrayerReminder
+*/node_modules
+/websocket-api/node_modules
+/websocket-api/package-lock.json
